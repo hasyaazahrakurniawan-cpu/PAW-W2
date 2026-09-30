@@ -1,0 +1,6 @@
+my-website/
+│
+├── index.html
+├── style.css
+├── favicon.ico  (gambar ikon kecil ukuran 16x16 / 32x32)
+└── profile.jpg  (foto dirimu)
